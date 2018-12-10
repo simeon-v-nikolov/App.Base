@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/app/libs
+/.tmp
+/.sass-cache
+/bower_components
+*.retry
+npm-debug.log
+app/.DS_Store
+.DS_Store
+.idea
